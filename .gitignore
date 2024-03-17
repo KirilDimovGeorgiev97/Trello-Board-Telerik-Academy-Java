@@ -1,0 +1,9 @@
+out/
+
+# Binaries
+**/*.class
+
+# User-specific stuff
+**/.idea/**/workspace.xml
+**/.idea/**/tasks.xml
+**/.idea/**/checkstyle-idea.xml
